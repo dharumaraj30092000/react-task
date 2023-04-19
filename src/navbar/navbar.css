@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+.navbar,.nav-link {
+   padding: 0 !important;
+}
+.navbar-nav .nav-link {
+    color: rgb(251, 251, 251);
+}
+.nav-link:focus, .nav-link:hover {
+    color: #f9105a;
+}
+.container-fluid {
+    padding: 0!important;
+}
+.icon:hover {
+    color: #f9105a !important;
+}
+.header-border {
+    border-right: 1px solid lightgrey;
+}
+.bg-color {
+    background: #080864;
+}
+.logo {
+    background: linear-gradient(to right bottom, #f9105a, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

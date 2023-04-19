@@ -1,0 +1,30 @@
+.footer-color {
+    color: white;
+}
+.icon-design {
+    background: #0b0bb3;
+    padding: 3px 8px 6px 8px;
+    border-radius: 5px;
+}
+.icon-design:hover {
+    background: white;
+    color: #f9105a;
+}
+li {
+    list-style: none;
+}
+li > a {
+    text-decoration: none;
+    color: #3304a0;
+    margin: 4px 0;
+    display: inline-block;
+}
+li {
+    color: #3304a0;  
+}
+li:hover {
+    color: white;
+}
+li:hover a {
+    color: white;
+}

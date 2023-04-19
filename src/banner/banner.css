@@ -1,0 +1,38 @@
+.card-body {
+    padding: 0!important;
+}
+.bg-white-color {
+    background: white;
+}
+.banner-scale {
+    transition: all 0.6s ease;
+    width: 100%;
+}
+.banner-hover:hover .banner-scale {
+    transform: scale(0.8);
+    transition: all 0.6s ease;
+}
+.btn {
+    border-radius: 0 !important;
+}
+.btn-width {
+    width: 90%;
+    border: none;
+}
+.btn-width:hover {
+    background: #080864;
+    color: white;
+}
+.text {
+    text-decoration-line: line-through;
+}
+.text-color {
+    color: #b1afaf;
+}
+.btn-primary{
+    border: none;
+}
+.banner-align {
+    display: flex;
+    flex-wrap: wrap;
+}
